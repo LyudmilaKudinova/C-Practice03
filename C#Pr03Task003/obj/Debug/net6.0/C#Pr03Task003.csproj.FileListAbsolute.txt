@@ -1,0 +1,15 @@
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\bin\Debug\net6.0\C#Pr03Task003.exe
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\bin\Debug\net6.0\C#Pr03Task003.deps.json
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\bin\Debug\net6.0\C#Pr03Task003.runtimeconfig.json
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\bin\Debug\net6.0\C#Pr03Task003.dll
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\bin\Debug\net6.0\C#Pr03Task003.pdb
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.csproj.AssemblyReference.cache
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.AssemblyInfoInputs.cache
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.AssemblyInfo.cs
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.dll
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\refint\C#Pr03Task003.dll
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.pdb
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\C#Pr03Task003.genruntimeconfig.cache
+C:\Users\Ксения\Desktop\МАМА\C# семинары\C#Practice03.git\C#Pr03Task003\obj\Debug\net6.0\ref\C#Pr03Task003.dll
